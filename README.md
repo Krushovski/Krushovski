@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Krushovski
-- 👀 I’m interested in programming - mainly C# projects
+- 👀 I’m interested in programming - mainly C#,Java,Python projects
 - 🌱 I’m currently learning C++,MySQL
 - 💞️ I’m looking for intern position for backend dev 
 - 📫 How to reach me - email : mihail_2001k@abv.bg
