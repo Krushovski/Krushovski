@@ -12,3 +12,4 @@ You can click the Preview link to take a look at your changes.
 
 [562f6776-f240-467f-9c8c-0124d00dd3b5.pdf](https://github.com/Krushovski/Krushovski/files/14451546/562f6776-f240-467f-9c8c-0124d00dd3b5.pdf)
 C# Intermediate course certificate
+https://github.com/Krushovski/Krushovski/files/14451546/562f6776-f240-467f-9c8c-0124d00dd3b5.pdf
