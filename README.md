@@ -8,8 +8,6 @@
 Krushovski/Krushovski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[Programming Basics - February 2022 - Certificate.pdf](https://github.com/Krushovski/Krushovski/files/14451502/Programming.Basics.-.February.2022.-.Certificate.pdf)
-
-C# Intermediate course certificate : [562f6776-f240-467f-9c8c-0124d00dd3b5.pdf](https://github.com/Krushovski/Krushovski/files/14451546/562f6776-f240-467f-9c8c-0124d00dd3b5.pdf)
+LinkedIn profile: www.linkedin.com/in/mihail-krushovski-27179622a
 
 
