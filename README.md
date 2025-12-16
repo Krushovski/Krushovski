@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Krushovski
 - 👀 I’m interested in Data Science, Machine Learning - mainly Python, C# projects
 - 🌱 I’m currently learning C++ for working with OpenGL 
-- 💞️ Current role: Data analyst intern
+- 💞️ Current role: Data analyst
 - 📫 How to reach me - email : mihail_2001k@abv.bg
 
 <!---
